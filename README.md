@@ -8,7 +8,7 @@
 <details>
 <p><strong><summary> 🎧 Busy coding & vibing to: </summary></strong></p>
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/SALAH) <br>
+[![Spotify](https://open.spotify.com/user/31qno6pnj6dszmpa3ib3xakapvxq)<br>
 
 </details>
 
